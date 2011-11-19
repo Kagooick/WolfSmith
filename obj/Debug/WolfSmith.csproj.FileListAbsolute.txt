@@ -1,0 +1,5 @@
+c:\users\kevin\documents\visual studio 2010\Projects\WolfSmith\WolfSmith\bin\WolfSmith.dll
+c:\users\kevin\documents\visual studio 2010\Projects\WolfSmith\WolfSmith\bin\WolfSmith.pdb
+c:\users\kevin\documents\visual studio 2010\Projects\WolfSmith\WolfSmith\obj\Debug\ResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2010\Projects\WolfSmith\WolfSmith\obj\Debug\WolfSmith.dll
+c:\users\kevin\documents\visual studio 2010\Projects\WolfSmith\WolfSmith\obj\Debug\WolfSmith.pdb
